@@ -8,7 +8,7 @@ body{background:black;
 margin-left: 45%;}
       .t{
         display: flex;
-        margin: 5%;
+        margin: 1%;
         border-radius: 50px;
         margin-left: 28%;
        
@@ -109,7 +109,7 @@ margin-left: 45%;}
             box-shadow: 0 4px 15px
       }
       .ac{
-        margin-left: 11%;
+        margin-left: 2%;
       }
       .s {
         display: flex;
